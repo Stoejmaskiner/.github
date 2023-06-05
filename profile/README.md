@@ -15,6 +15,6 @@ My objective is to build simplistic, yet highly efficient and usable tools for m
 You can contribute in a variety of ways:
 - Submit an issue on one of my plugins to report bugs or ask for features
 - Submit an issue on the [*all-plugins*](../../../all-plugins) page to submit plugin ideas or governance issues
-- Fork one of my plugins to resolve an issue and open a pull request. You probably need to be familiar with the [Rust]() programming language and the [NIH-plug]() framework.
+- Fork one of my plugins to resolve an issue and open a pull request. You probably need to be familiar with the [Rust](https://rust-lang.org) programming language and the [NIH-plug](https://github.com/robbert-vdh/nih-plug) framework.
 
 For bugs related to [FunDSP](https://github.com/SamiPerttu/fundsp), [NIH-plug](https://github.com/robbert-vdh/nih-plug) or [Vizia](https://github.com/vizia/vizia), refer to their respective repositories and their contribution policies.
